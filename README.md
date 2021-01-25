@@ -1,6 +1,6 @@
-<h2 ><center>Hola, I am Sakshi Rawani! 👋 </center></h2>
-<h3>I am a self-driven student with a good foundation in design and development.</h3>
-<h3>Seeking to leverage my technical skills.</h3>
+<h1 align=center>Hola, I am Sakshi Rawani! 👋 </h1>
+<h2 align=center>I am a self-driven student with a good foundation in design and development.Seeking to leverage my technical skills.</h2>
+
 
 - 🔭 I’m currently working on projects.
 - 🌱 I’m currently learning Computer Science.
