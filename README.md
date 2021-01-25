@@ -14,7 +14,7 @@
 
 
 
-<a href="linkedin.com/in/sakshi-rawani-727a1619a" ><img align="left" alt="linkedin | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
+<a href="https://www.linkedin.com/in/sakshi-rawani-727a1619a/" ><img align="left" alt="linkedin | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
 <a href="https://www.instagram.com/sakshirawani08/"><img align="left" alt="instagram | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></a> Or drop me a mail at 📫 : <a href="sakshi1269.cse18@chitkara.edu.in">sakshi1269.cse18@chitkara.edu.in</a>
 <br/>
 
