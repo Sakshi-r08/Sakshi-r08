@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate with reputed firm.
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sakshi-r08&&show_icons=true&title_color=9900ff&icon_color=ff4da6&text_color=fff7e6&bg_color=151515"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SakshiRawani&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
 
 <h3>Connect with me:</h3>
